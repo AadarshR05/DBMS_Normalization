@@ -1,1 +1,11 @@
 # DBMS_Normalization
+![Aadarsh_R_DBMS_Assignment_13_12_2023_page-0001](https://github.com/AadarshR05/DBMS_Normalization/assets/92199351/f55fc7b0-00b0-4c31-a163-b6c25cd2b028)
+![Aadarsh_R_DBMS_Assignment_13_12_2023_page-0002](https://github.com/AadarshR05/DBMS_Normalization/assets/92199351/30da3313-30ab-4454-bd2e-880f27b65ec4)
+![Aadarsh_R_DBMS_Assignment_13_12_2023_page-0003](https://github.com/AadarshR05/DBMS_Normalization/assets/92199351/30e055f2-65d6-4e26-b9b3-c70cc863e645)
+![Aadarsh_R_DBMS_Assignment_13_12_2023_page-0004](https://github.com/AadarshR05/DBMS_Normalization/assets/92199351/2f41f532-9956-4d94-bb64-394d0791a6f0)
+![Aadarsh_R_DBMS_Assignment_13_12_2023_page-0005](https://github.com/AadarshR05/DBMS_Normalization/assets/92199351/3930c826-d86f-411a-a1b2-750da8d59ee7)
+![Aadarsh_R_DBMS_Assignment_13_12_2023_page-0006](https://github.com/AadarshR05/DBMS_Normalization/assets/92199351/6c61900a-83ff-4cfa-b0bd-14b837328cf6)
+![Aadarsh_R_DBMS_Assignment_13_12_2023_page-0007](https://github.com/AadarshR05/DBMS_Normalization/assets/92199351/a150477f-0d9c-49df-96b4-76833a93b165)
+![Aadarsh_R_DBMS_Assignment_13_12_2023_page-0008](https://github.com/AadarshR05/DBMS_Normalization/assets/92199351/6e51c8cb-7c96-4aca-b5de-e354d58fe35b)
+![Aadarsh_R_DBMS_Assignment_13_12_2023_page-0009](https://github.com/AadarshR05/DBMS_Normalization/assets/92199351/267faa87-b397-4996-8fb2-27fc67239d70)
+![Aadarsh_R_DBMS_Assignment_13_12_2023_page-0010](https://github.com/AadarshR05/DBMS_Normalization/assets/92199351/f183145f-f38e-49d1-8fcd-d8f0b5a55667)
